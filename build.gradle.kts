@@ -7,7 +7,7 @@ plugins {
     id("maven-publish")
     id("org.jetbrains.gradle.plugin.idea-ext") version "1.1.7"
     id("eclipse")
-    id("com.gtnewhorizons.retrofuturagradle") version "1.3.34"
+    id("com.gtnewhorizons.retrofuturagradle") version "1.4.1"
     id("me.champeau.jmh") version "0.7.2"
 }
 
